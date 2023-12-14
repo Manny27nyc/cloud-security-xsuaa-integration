@@ -19,7 +19,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <sap.cloud.security.version>2.11.5</sap.cloud.security.version>
+        <sap.cloud.security.version>2.17.0</sap.cloud.security.version>
     </properties>
 
     <dependencies>
