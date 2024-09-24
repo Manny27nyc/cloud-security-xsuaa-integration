@@ -59,14 +59,14 @@
 		<maven.source.plugin.version>3.2.1</maven.source.plugin.version>
 		<!-- make sure that spring core and spring boot versions are compatible-->
 		<spring.boot.version>2.6.1</spring.boot.version>
-		<spring.core.version>5.3.13</spring.core.version>
+		<spring.core.version>5.3.27</spring.core.version>
 		<spring.security.version>5.6.0</spring.security.version>
-		<spring.security.oauth2.version>2.5.1.RELEASE</spring.security.oauth2.version>
+		<spring.security.oauth2.version>2.5.2.RELEASE</spring.security.oauth2.version>
 		<spring.security.jwt.version>1.1.1.RELEASE</spring.security.jwt.version>
 		<reactor.version>3.4.12</reactor.version>
 		<log4j.version>2.14.1</log4j.version>
 		<slf4j.api.version>1.7.32</slf4j.api.version> <!--see also here http://www.slf4j.org/faq.html#changesInVersion18 -->
-		<org.json.version>20211205</org.json.version>
+		<org.json.version>20231013</org.json.version>
 		<google.jsr305.version>3.0.2</google.jsr305.version>
 		<apache.httpclient.version>4.5.13</apache.httpclient.version>
 		<caffeine.version>2.9.3</caffeine.version>
@@ -80,7 +80,7 @@
 		<mockito.version>3.12.4</mockito.version>
 		<assertj.version>3.21.0</assertj.version>
 		<reactor.test.version>3.4.12</reactor.test.version>
-		<wiremock.version>2.32.0</wiremock.version>
+		<wiremock.version>2.35.1</wiremock.version>
 		<skipTests>false</skipTests>
 		<jacoco.skip>${skipTests}</jacoco.skip>
 	</properties>
